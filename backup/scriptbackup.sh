@@ -1,4 +1,4 @@
 #!/bin/bash
 
-zip -r backup.zip ../backup
+zip -r backup.zip backup
 ls
