@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip *.*
+zip -r backup.zip ../backup
