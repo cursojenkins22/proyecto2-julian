@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "El usuario es"
+echo "Buenas tardes, el usuario es"
 whoami
